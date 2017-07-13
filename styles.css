@@ -1,0 +1,25 @@
+#container {
+  margin: 60px auto;
+  width: 50%;
+  border: 2px solid #E6DEDC;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
+
+body {
+  background-color: #232323;
+  color: #E6DEDC;
+  font-family: "Source Sans Pro",serif;
+}
+
+#quoteBtn {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+  color: #E6DEDC;
+  background: rgba(0, 0, 0, 0);
+  border: solid 2px #E6DEDC;
+}
